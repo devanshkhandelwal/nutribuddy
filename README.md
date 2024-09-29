@@ -12,4 +12,4 @@ Nutribuddy is a web application designed to help users manage their nutrition an
 
 ## Final Launch
 
-Launch expected by 2nd week of September.
+Launch expected by October.
