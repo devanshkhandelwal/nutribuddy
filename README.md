@@ -9,3 +9,7 @@ Nutribuddy is a web application designed to help users manage their nutrition an
 - **Meal Planning**: Plan your meals for the week and stay on track with your dietary goals.
 - **User Profiles**: Create and manage user profiles with personalized nutrition goals.
 - **Interactive Dashboard**: Get a visual representation of your daily, weekly, or monthly nutritional intake.
+
+## Deployment
+
+Deployment expected soon!
