@@ -58,5 +58,3 @@
 ## Ingredient Substitution
 
 - [ ] Implement a route to suggest ingredient substitutions based on dietary needs or availability
-
-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
